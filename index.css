@@ -22,3 +22,35 @@ button{
     font-size: 30px;
     border-radius: 10px;
 }
+
+
+
+/* navbar */
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header h1{
+    font-size: 25px;
+    color: blueviolet;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul li {
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
